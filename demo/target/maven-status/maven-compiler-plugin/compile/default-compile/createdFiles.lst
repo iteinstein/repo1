@@ -1,0 +1,5 @@
+com\fh\controller\CategoryController.class
+com\fh\mapper\CategoryMapper.class
+com\fh\service\CategoryService.class
+com\fh\model\Category.class
+com\fh\service\impl\CategoryServiceImpl.class
